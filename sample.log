@@ -1,0 +1,9 @@
+INFO Server started
+WARNING Disk usage at 85%
+ERROR Failed to connect to database
+INFO User login successful
+ERROR Disk full
+WARNING Slow response
+ERROR Timeout while calling API
+INFO Backup completed
+CRITICAL System overheating

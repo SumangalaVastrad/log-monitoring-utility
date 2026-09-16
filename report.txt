@@ -1,0 +1,5 @@
+LOG SUMMARY REPORT
+Errors: 3
+Warnings: 2
+Info: 3
+Critical: 1
