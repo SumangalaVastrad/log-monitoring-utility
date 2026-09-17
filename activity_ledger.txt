@@ -1,1 +1,2 @@
 [2026-09-16 20:36:38 +0530] test(benchmark): stress-test log parsing throughput on multi-gigabyte server log files
+[2026-09-17 12:15:25 +0530] refactor(engine): build configurable rate-limiting detection window using sliding timestamps
