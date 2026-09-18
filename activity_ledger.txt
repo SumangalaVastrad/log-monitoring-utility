@@ -3,3 +3,4 @@
 [2026-09-17 14:37:54 +0530] feat(exporter): implement Prometheus metric endpoint exposing request count and error rates
 [2026-09-18 13:48:32 +0530] feat(alerts): add regex pattern matching for 5xx server errors and elevated 4xx request spikes
 [2026-09-18 14:30:11 +0530] feat(exporter): implement Prometheus metric endpoint exposing request count and error rates
+[2026-09-18 16:47:51 +0530] feat(alerts): add regex pattern matching for 5xx server errors and elevated 4xx request spikes
