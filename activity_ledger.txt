@@ -7,3 +7,4 @@
 [2026-09-18 19:23:11 +0530] perf(memory): optimize line-by-line generator to maintain flat memory profile under high throughput
 [2026-09-19 09:53:43 +0530] fix(parser): handle truncated lines and partial log flushes during heavy disk I/O
 [2026-09-19 10:04:49 +0530] feat(parser): implement asynchronous tail stream parser for Apache and Nginx access logs
+[2026-09-19 17:01:27 +0530] feat(alerts): add regex pattern matching for 5xx server errors and elevated 4xx request spikes
