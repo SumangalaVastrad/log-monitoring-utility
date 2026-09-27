@@ -33,3 +33,4 @@
 [2026-09-26 18:38:10 +0530] feat(parser): implement asynchronous tail stream parser for Apache and Nginx access logs
 [2026-09-26 19:49:53 +0530] feat(alerts): add regex pattern matching for 5xx server errors and elevated 4xx request spikes
 [2026-09-27 15:44:58 +0530] test(benchmark): stress-test log parsing throughput on multi-gigabyte server log files
+[2026-09-27 18:35:22 +0530] docs(manual): compile CLI command-line options and alert rule definition syntax
