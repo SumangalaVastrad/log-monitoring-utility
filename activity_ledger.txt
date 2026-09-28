@@ -36,3 +36,4 @@
 [2026-09-27 18:35:22 +0530] docs(manual): compile CLI command-line options and alert rule definition syntax
 [2026-09-28 10:04:07 +0530] docs(manual): compile CLI command-line options and alert rule definition syntax
 [2026-09-28 14:28:15 +0530] perf(memory): optimize line-by-line generator to maintain flat memory profile under high throughput
+[2026-09-28 17:54:05 +0530] test(benchmark): stress-test log parsing throughput on multi-gigabyte server log files
