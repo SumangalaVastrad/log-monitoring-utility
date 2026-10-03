@@ -47,3 +47,4 @@
 [2026-10-01 20:10:48 +0530] test(benchmark): stress-test log parsing throughput on multi-gigabyte server log files
 [2026-10-02 09:29:24 +0530] feat(parser): implement asynchronous tail stream parser for Apache and Nginx access logs
 [2026-10-02 13:49:18 +0530] feat(parser): implement asynchronous tail stream parser for Apache and Nginx access logs
+[2026-10-03 16:33:27 +0530] feat(exporter): implement Prometheus metric endpoint exposing request count and error rates
