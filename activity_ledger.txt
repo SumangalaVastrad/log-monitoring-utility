@@ -54,3 +54,4 @@
 [2026-10-04 13:06:47 +0530] perf(memory): optimize line-by-line generator to maintain flat memory profile under high throughput
 [2026-10-04 15:58:36 +0530] fix(parser): handle truncated lines and partial log flushes during heavy disk I/O
 [2026-10-05 15:11:09 +0530] refactor(engine): build configurable rate-limiting detection window using sliding timestamps
+[2026-10-05 19:18:20 +0530] feat(alerts): add regex pattern matching for 5xx server errors and elevated 4xx request spikes
