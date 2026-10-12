@@ -71,3 +71,4 @@
 [2026-10-11 18:12:44 +0530] feat(parser): implement asynchronous tail stream parser for Apache and Nginx access logs
 [2026-10-12 12:52:19 +0530] style(cli): build colorful terminal output summary table using Rich library
 [2026-10-12 16:54:45 +0530] docs(manual): compile CLI command-line options and alert rule definition syntax
+[2026-10-12 20:05:53 +0530] feat(alerts): add regex pattern matching for 5xx server errors and elevated 4xx request spikes
