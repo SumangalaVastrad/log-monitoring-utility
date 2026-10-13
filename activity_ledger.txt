@@ -75,3 +75,4 @@
 [2026-10-12 22:55:51 +0530] refactor(engine): build configurable rate-limiting detection window using sliding timestamps
 [2026-10-13 11:28:51 +0530] feat(exporter): implement Prometheus metric endpoint exposing request count and error rates
 [2026-10-13 19:25:05 +0530] test(benchmark): stress-test log parsing throughput on multi-gigabyte server log files
+[2026-10-13 20:29:39 +0530] feat(exporter): implement Prometheus metric endpoint exposing request count and error rates
