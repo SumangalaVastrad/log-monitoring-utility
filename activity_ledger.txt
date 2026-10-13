@@ -73,3 +73,4 @@
 [2026-10-12 16:54:45 +0530] docs(manual): compile CLI command-line options and alert rule definition syntax
 [2026-10-12 20:05:53 +0530] feat(alerts): add regex pattern matching for 5xx server errors and elevated 4xx request spikes
 [2026-10-12 22:55:51 +0530] refactor(engine): build configurable rate-limiting detection window using sliding timestamps
+[2026-10-13 11:28:51 +0530] feat(exporter): implement Prometheus metric endpoint exposing request count and error rates
