@@ -79,3 +79,4 @@
 [2026-10-14 09:45:58 +0530] docs(manual): compile CLI command-line options and alert rule definition syntax
 [2026-10-14 14:52:35 +0530] fix(parser): handle truncated lines and partial log flushes during heavy disk I/O
 [2026-10-14 15:39:41 +0530] test(benchmark): stress-test log parsing throughput on multi-gigabyte server log files
+[2026-10-14 17:06:07 +0530] fix(parser): handle truncated lines and partial log flushes during heavy disk I/O
