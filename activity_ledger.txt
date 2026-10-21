@@ -97,3 +97,4 @@
 [2026-10-20 19:48:16 +0530] refactor(engine): build configurable rate-limiting detection window using sliding timestamps
 [2026-10-20 22:34:12 +0530] test(benchmark): stress-test log parsing throughput on multi-gigabyte server log files
 [2026-10-21 12:41:12 +0530] test(benchmark): stress-test log parsing throughput on multi-gigabyte server log files
+[2026-10-21 15:12:41 +0530] docs(manual): compile CLI command-line options and alert rule definition syntax
