@@ -101,3 +101,4 @@
 [2026-10-21 21:43:28 +0530] style(cli): build colorful terminal output summary table using Rich library
 [2026-10-22 15:01:46 +0530] docs(manual): compile CLI command-line options and alert rule definition syntax
 [2026-10-22 18:14:14 +0530] style(cli): build colorful terminal output summary table using Rich library
+[2026-10-22 21:18:49 +0530] fix(parser): handle truncated lines and partial log flushes during heavy disk I/O
