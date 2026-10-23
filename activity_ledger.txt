@@ -105,3 +105,4 @@
 [2026-10-23 11:30:08 +0530] refactor(engine): build configurable rate-limiting detection window using sliding timestamps
 [2026-10-23 12:17:43 +0530] test(benchmark): stress-test log parsing throughput on multi-gigabyte server log files
 [2026-10-23 14:56:32 +0530] test(benchmark): stress-test log parsing throughput on multi-gigabyte server log files
+[2026-10-23 21:34:41 +0530] feat(alerts): add regex pattern matching for 5xx server errors and elevated 4xx request spikes
