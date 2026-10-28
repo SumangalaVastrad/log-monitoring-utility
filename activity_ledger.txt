@@ -118,3 +118,4 @@
 [2026-10-27 09:01:32 +0530] perf(memory): optimize line-by-line generator to maintain flat memory profile under high throughput
 [2026-10-27 14:09:13 +0530] feat(exporter): implement Prometheus metric endpoint exposing request count and error rates
 [2026-10-27 18:53:25 +0530] feat(exporter): implement Prometheus metric endpoint exposing request count and error rates
+[2026-10-28 15:32:11 +0530] refactor(engine): build configurable rate-limiting detection window using sliding timestamps
