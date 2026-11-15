@@ -135,3 +135,4 @@
 [2026-11-14 15:51:14 +0530] feat(exporter): implement Prometheus metric endpoint exposing request count and error rates
 [2026-11-14 18:53:14 +0530] fix(parser): handle truncated lines and partial log flushes during heavy disk I/O
 [2026-11-14 19:52:04 +0530] feat(alerts): add regex pattern matching for 5xx server errors and elevated 4xx request spikes
+[2026-11-15 13:55:33 +0530] style(cli): build colorful terminal output summary table using Rich library
