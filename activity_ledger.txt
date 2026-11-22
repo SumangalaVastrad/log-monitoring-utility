@@ -158,3 +158,4 @@
 [2026-11-21 16:01:28 +0530] perf(memory): optimize line-by-line generator to maintain flat memory profile under high throughput
 [2026-11-21 22:13:45 +0530] style(cli): build colorful terminal output summary table using Rich library
 [2026-11-22 10:42:24 +0530] perf(memory): optimize line-by-line generator to maintain flat memory profile under high throughput
+[2026-11-22 11:17:06 +0530] feat(alerts): add regex pattern matching for 5xx server errors and elevated 4xx request spikes
