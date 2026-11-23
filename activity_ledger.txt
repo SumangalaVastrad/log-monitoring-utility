@@ -162,3 +162,4 @@
 [2026-11-22 13:24:43 +0530] test(benchmark): stress-test log parsing throughput on multi-gigabyte server log files
 [2026-11-23 12:28:42 +0530] feat(alerts): add regex pattern matching for 5xx server errors and elevated 4xx request spikes
 [2026-11-23 20:06:46 +0530] feat(parser): implement asynchronous tail stream parser for Apache and Nginx access logs
+[2026-11-23 22:07:01 +0530] fix(parser): handle truncated lines and partial log flushes during heavy disk I/O
